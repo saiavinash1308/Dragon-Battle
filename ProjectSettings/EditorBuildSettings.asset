@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mountain Terrain rocks and tree/Scenes/Lobby.unity
+    guid: 39d4b875cc1aa42d08a7b6ba5b1599b5
+  - enabled: 1
+    path: Assets/Mountain Terrain rocks and tree/Scenes/Level 1.unity
+    guid: 31d83c8cbed754f5191a113682a41a6c
+  - enabled: 1
+    path: Assets/Mountain Terrain rocks and tree/Scenes/Level 2.unity
+    guid: c74aa6b8d114045cc9c078b853badbd9
+  - enabled: 1
+    path: Assets/Mountain Terrain rocks and tree/Scenes/Game.unity
+    guid: d7647d3daa595e343a71e54345cf2915
+  m_configObjects: {}
